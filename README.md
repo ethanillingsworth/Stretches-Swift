@@ -1,5 +1,7 @@
 # Stretches
 
+Stretches will be moved to a new repo made in React.
+
 ## Our Goal
 To make a simple yet fully featured task managment app that streches out your larger goals into smaller ones.
 
